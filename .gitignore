@@ -1,0 +1,6 @@
+__pycache__/
+.idea/
+*.pyc
+venv/
+recipe-ai-env/
+.env
